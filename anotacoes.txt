@@ -1,0 +1,15 @@
+1 - yarn add react-navigation react-native-gesture-handler // trabalhando com as rotas
+2 - yarn add expo-linear-gradient // trabalha com a estilos e gradient 
+3 - yarn add styled-components // trabalha com os estilos
+4 - yarn add prop-types // define o tipo das propriedades
+5 - yarn add redux redux-saga react-redux // trabalha com a aqrquitetura flux
+6 - yarn add immer // trabalha com o state no redux
+7 - yarn add redux-persist // trabalha com a persistencia de dados
+8 - yarn add axios // trabalha com as chamadasna api
+9 - yarn add history // trabalha com a navegação utilizando o redux
+10 - yarn add react-navigation-tabs // são as abas de navegação,
+11 - yarn add react-native-reanimated react-native-gesture-handler react-native-screens@^1.0.0-alpha.23 
+//necessario para funcionar o navigation tabs
+12 - yarn add date-fns // trabalha com as datas
+13 - expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+// para trabalhar com a rota de createStackNavigator
